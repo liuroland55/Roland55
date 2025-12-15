@@ -17,6 +17,8 @@
 
 🎯 Focus areas: Computer Vision, Natural Language Processing, and Deep Learning
 
+📧 **How to reach me:** You can email me at liuroland55@gmail.com
+
 ---
 
 ## 🛠️ Tech Stack
@@ -134,44 +136,25 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RolandLiu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandLiu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RolandLiu&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FFB86C)
-
-</div>
-
----
-
-## 🏆 Achievements
+## 🎮 Steam Mod Development
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RolandLiu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+### 🌟 Featured Mods
 
-</div>
+**[Modern Warfare III Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3230884359)**
+<br>
+📊 **Author Stats:**
+<br>
+👥 7,870 Unique Visitors • 📈 8,839 Current Subscribers • ⭐ 396 Current Favorites
 
----
+<br><br>
 
-## 🌟 Current Focus
-
-- 🤖 **Deep Learning Research**: Exploring novel architectures for computer vision
-- 🧠 **NLP Applications**: Working on transformer-based models for text understanding
-- 📊 **Data Engineering**: Building scalable ML pipelines and data infrastructure
-- 🎯 **Production ML**: Deploying models in real-world applications
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RolandLiu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=FFB86C&point=FFB86C)
+**[Advanced Warfare Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3236710433)**
+<br>
+📊 **Author Stats:**
+<br>
+👥 1,481 Unique Visitors • 📈 1,329 Current Subscribers • ⭐ 33 Current Favorites
 
 </div>
 
@@ -188,13 +171,6 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 
 </div>
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Stay tuned for insights on AI/ML research and development
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
