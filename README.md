@@ -177,8 +177,8 @@ A sophisticated crosshair overlay tool for gaming and precision applications
 ## 🎵 Fun Fact
 
 <div align="center">
-
-🎧 When I'm not coding, you'll find me exploring the latest in AI research or contributing to open-source projects that push the boundaries of what's possible with machine learning.
+I like coding small parts to improve my life, like message forward bot that let my computer and phone share the same message box.
+Why not write a script for everything repeated and cost me more than 3 seconds? 
 
 </div>
 
