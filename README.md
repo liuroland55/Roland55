@@ -129,10 +129,11 @@ A sophisticated crosshair overlay tool for gaming and precision applications
   - 🖥️ Full-screen transparent overlay display
   - ⚡ Dual-mode operation (GUI editor and lightweight overlay)
   - 🔥 Hotkey support for quick toggle operations
+</details>
 
  ###**Video Text Extractor** 
  is an intelligent Edge browser extension specifically designed to extract text content from paused video frames, with special optimization for maintaining the recognition of mathematical formulas, code formatting, and special symbols.
-</details>
+
   AI/ML Technology Stack
   Manifest V3: Modern Chrome Extension API with enhanced security for AI services
   Service Worker: Efficient background processing for ML model inference
